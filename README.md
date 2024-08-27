@@ -1,2 +1,1 @@
-this all programing based on python 
-easy to use 
+                                            CODEING KILLS YOUR BRAIN AN I LOVE THIS
