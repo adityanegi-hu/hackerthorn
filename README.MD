@@ -30,3 +30,4 @@ Implement a more sophisticated algorithm for recommending career paths (e.g., ba
 Develop a web-based interface for the tool.
 Contributing
 Contributions are welcome! If you'd like to add new features, fix bugs, or improve the code, please submit a pull request.
+
