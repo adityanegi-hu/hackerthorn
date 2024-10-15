@@ -1,4 +1,4 @@
-                                                                                 **Career Path Recommender** 
+                                                  #**Career Path Recommender** 
 This is a simple career path recommender tool that suggests potential career paths based on a user's input skill. The tool uses a predefined dictionary to map skills to corresponding career paths.
 
 Features
